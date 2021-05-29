@@ -1,0 +1,24 @@
+{
+  "name": "Chauncey-Bot",
+  "version": "1.0.0",
+  "description": "A GitHub Repo that serves as a Discord bot allowing users to have virtual pets in their servers. Users can invite the bot to their server and each server participant has the ability to unlock a pet. Users can customize their pets including name, type of pet, leash/accessories, tricks/commands, number of pets, and the “home” server for their pet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenYoss/Chauncey-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenYoss/Chauncey-Bot/issues"
+  },
+  "homepage": "https://github.com/BenYoss/Chauncey-Bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0"
+  }
+}
