@@ -1,3 +1,3 @@
 require('dotenv').config();
 
-console.log(process.env.CHAUNCEY_BOT_TOKEN);
+const { client } = require('discord.js');
